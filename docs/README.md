@@ -2,37 +2,31 @@
 
 > Lire en [Français](/docs/README.fr.md)
 
-Logisparte is a software engineering cooperative that provides development, consulting and
-training services to businesses.
+Logisparte is a company that provides industrial-grade software engineering tools and services
 
 ## Identity
 
 Logisparte is based in [Quebec City](https://en.wikipedia.org/wiki/Quebec_City) and is owned by
-quebecers.
+quebecers
 
 Logisparte is the property of its engineer-partners (_hómoioi_), which all equally participate
-in the labor, profits and losses of the business.
+in labor and profit
 
-Engineer-partners are bound by an oath to always protect the public, their colleagues and the
-interests of their customers. Engineer-partners are expected to strive for excellence, to
-improve the state-of-the-art of their craft and to be examples for their peers. Our core values
-are:
+We, the engineer-partners, are bound by an oath to always protect the public. We are expected to
+strive for excellence, to improve the state-of-the-art of our craft and to be examples for our
+peers. Our core values are:
 
 ### Mastery
 
 We dedicate ourselves to the highest standards of our profession. We're constantly looking to
-improve our work and our know-how. Computers are extensions of our minds. We do not let pressure
-get the best of us. We stay calm in the storm.
+improve our work and our know-how. We tackle complexity and uncertainty with resolute pragmatism
 
 ### Love of our craft
 
-We take pride in our work. We believe the small details make a difference. We love to solve
-complex problems. We're curious, creative and resourceful.
+We believe in quality over quantity. We take pride in our work. We encourage curiosity. We love
+to learn and to teach others
 
 ### Ethics
 
-We're honest. We stay humble. We own our mistakes. We have the courage of our convictions. We do
-not treat others in a way we wouldn't want them to treat us. We strive to pass on a better world
-to those who will succeed us. People are more important than machines. Health and family always
-come first. When having a meeting, we let everyone have their say. When facing adversity, we
-have each other's back.
+We act with integrity, no matter the cost. We have the courage of our convictions. We put our
+skin in the game. We strive to pass on a better world to those who will succeed us
